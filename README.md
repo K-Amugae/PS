@@ -1,5 +1,6 @@
 # PS
 Problem Solving 코드 백업용 Repository
+코드는 대부분 C++로 작성합니다.  
 
 PS/알고리즘 공부 참고 링크:  
 &nbsp;&nbsp;&nbsp;+ [수비니움님 - PS를 공부하는 방법 (How to study Problem Solving?)](https://subinium.github.io/how-to-study-problem-solving/)  
