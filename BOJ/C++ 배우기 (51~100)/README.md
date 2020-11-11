@@ -1,6 +1,7 @@
 # C++ 배우기 (51~100)
 automata님의 BOJ 문제집 [C++ 배우기 (51~100)](https://www.acmicpc.net/workbook/view/567) 풀이  
   
+링크: 관련 내용
 
 |문제 번호|제목|풀이 여부|
 |---|---|---|
@@ -54,3 +55,16 @@ automata님의 BOJ 문제집 [C++ 배우기 (51~100)](https://www.acmicpc.net/wo
 |2506 |점수계산|O|
 |1546 |평균|O|
 |2455 |지능형 기차|O|
+  
+<br>  
+## 2609. GCD and LCM  
+
+[유클리드 호제법](https://ko.wikipedia.org/wiki/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C_%ED%98%B8%EC%A0%9C%EB%B2%95)  
+
+## 2748. 피보나치 수 2
+
+Dynamic Programming  
+
+## 1978. 소수 찾기
+
+[에라토스테네스의 체](https://ko.wikipedia.org/wiki/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98_%EC%B2%B4)
