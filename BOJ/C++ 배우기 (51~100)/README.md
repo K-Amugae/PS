@@ -56,8 +56,9 @@ automata님의 BOJ 문제집 [C++ 배우기 (51~100)](https://www.acmicpc.net/wo
 |1546 |평균|O|
 |2455 |지능형 기차|O|
   
-<br>  
-## 2609. GCD and LCM  
+<br>
+  
+## 2609. 최대공약수와 최소공배수  
 
 [유클리드 호제법](https://ko.wikipedia.org/wiki/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C_%ED%98%B8%EC%A0%9C%EB%B2%95)  
 
