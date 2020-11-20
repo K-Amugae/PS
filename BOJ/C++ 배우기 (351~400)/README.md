@@ -52,6 +52,6 @@ automata님의 BOJ 문제집 [C++ 배우기 (351~400)](https://www.acmicpc.net/w
 |2502 |떡 먹는 호랑이   | |
 |1735 |분수 합    | |
 |10448|유레카 이론  |O|
-|10570|Favorite Number | |
+|10570|Favorite Number |O|
 |9455 |박스  |O|
 |9584 |Fraud Busters   | |
